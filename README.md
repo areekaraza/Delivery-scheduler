@@ -23,7 +23,7 @@ A Python GUI application for optimizing delivery task scheduling across multiple
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/DeliveryScheduler.git
+   git clone https://github.com/areekaraza/DeliveryScheduler.git
    cd DeliveryScheduler
    ```
 
